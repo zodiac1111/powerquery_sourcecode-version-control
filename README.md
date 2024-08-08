@@ -21,3 +21,10 @@ https://github.com/sio/LibPQ/
 试试这个: https://www.xltrail.com/git-xl
 
 看上去只适合vba, 还没成功
+
+
+AMalanov.editexcelpqm
+
+https://github.com/amalanov/EditExcelPQM
+
+这个插件能导入导出,但是两年了 作者不维护了.
