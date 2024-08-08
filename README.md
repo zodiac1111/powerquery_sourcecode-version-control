@@ -19,3 +19,5 @@ https://github.com/sio/LibPQ/
 
 
 试试这个: https://www.xltrail.com/git-xl
+
+看上去只适合vba, 还没成功
