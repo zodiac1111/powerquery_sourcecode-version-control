@@ -14,3 +14,8 @@ PowerQuery.vscode-powerquery
 https://github.com/sio/LibPQ/
 
 分离M code 和Excel
+
+不知道怎么用....
+
+
+试试这个: https://www.xltrail.com/git-xl
