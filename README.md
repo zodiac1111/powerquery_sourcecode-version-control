@@ -35,6 +35,16 @@ https://github.com/amalanov/EditExcelPQM
 介绍 https://forum.enterprisedna.co/t/power-query-editor-for-vs-code/11746
 
 
+尝试按照 github 编译, 在windows上.
+
+修改 Electron 版本
+npm install
+
+
+fork仓库,修改
+
+https://github.com/zodiac1111/EditExcelPQM
+
 
 ## Power Query / M 
 
